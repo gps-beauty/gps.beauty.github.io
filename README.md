@@ -1,0 +1,2 @@
+# gpsbeauty.io
+pages
